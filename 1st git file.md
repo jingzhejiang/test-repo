@@ -2,3 +2,4 @@
 This is a test file for Setting up Github with Visual Studio Code
 
 change1
+change2
